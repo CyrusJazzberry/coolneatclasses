@@ -1,0 +1,51 @@
+{
+	"characterclass-blacksmith": "Blacksmith",
+	"characterdesc-blacksmith": "<font color=\"#99c9f9\"><i>Flesh rots and metal rusts.</i></font><br><br>Blacksmiths are masters of metallurgy. Years of forgework has strengthened their swing, and they know how to maintain their equipment. Those skilled in the ways of the forge also tend to develop an eye for ore quality.",
+	
+	"trait-prospector": "<font color=\"#84ff84\">• Prospector </font>",
+	"trait-sturdy": "<font color=\"#84ff84\">• Sturdy </font>",
+	"trait-stoker": "<font color=\"#84ff84\">• Stoker </font>",
+	"trait-conspicuous": "<font color=\"#ff8484\">• Conspicuous </font>",
+	"traitname-prospector": "Prospector",
+	"traitname-sturdy": "Sturdy",
+	"traitname-stoker": "Stoker",
+	"traitname-conspicuous": "Conspicuous",
+	
+	"characterclass-forester": "Forester",
+	"characterdesc-forester": "<font color=\"#99c9f9\"><i>Even the greatest oak will fall.</i></font><br><br>Foresters are stewards of nature. Skin of hardwood and sap in their veins, living off the land has taught them to make the most out of what nature provides.",
+	
+	"trait-lumberjack": "<font color=\"#84ff84\">• Lumberjack </font>",
+	"trait-woodcarver": "<font color=\"#84ff84\">• Woodcarver </font>",
+	"trait-naturalist": "<font color=\"#84ff84\">• Naturalist </font>",
+	"trait-unsteady": "<font color=\"#ff8484\">• Unsteady </font>",
+	"trait-technophobic": "<font color=\"#ff8484\">• Technophobic </font>",
+	"traitname-woodcarver": "Woodcarver",
+	"traitdesc-woodcarver": "Exclusive recipes to craft <a href=\"handbooksearch://stick\">sticks</a> from firewood",
+	
+	"trait-scrapworker": "<font color=\"#84ff84\">• Salvager </font>",
+
+	"trait-customfit": "<font color=\"#84ff84\">• Custom fit </font>",
+	"trait-firstaid": "<font color=\"#84ff84\">• First aid </font>",
+	
+	"trait-stealthy": "<font color=\"#84ff84\">• Stealthy </font>",
+	
+	"trait-encumbered": "<font color=\"#ff8484\">• Encumbered </font>",
+
+	"charattribute-animalHarvestingTime--0.25": "+25% animal harvesting speed",
+	"charattribute-animalLootDropRate-0.25": "+25% animal loot",
+	"charattribute-animalSeekingRange--0.2": "-20% animal seeking range",
+	"charattribute-animalSeekingRange-0.25": "+25% animal seeking range",
+	"charattribute-armorDurabilityLoss--0.25": "+25% armor durability",
+	"charattribute-armorWalkSpeedAffectedness--0.25": "Walk speed penalty for wearing armor reduced by +25%",
+	"charattribute-armorWalkSpeedAffectedness-0.25": "Walk speed penalty for wearing armor increased by +25%",
+	"charattribute-charcoalPileDropRate-0.2": "+20% charcoal pit drop rate",
+	"charattribute-fruitTreeGraftDropRate-0.5": "+50% fruit tree graft drop rate",
+	"charattribute-healingeffectivness-0.25": "+25% healing effectiveness",
+	"charattribute-logDropRate-0.25": "+25% log drop rate",
+	"charattribute-maxhealthExtraPoints-2": "+2 health points",
+	"charattribute-mechanicalsDamage--0.15": "-15% damage against mechanicals",
+	"charattribute-meleeWeaponsDamage-0.15": "+15% melee damage",
+	"charattribute-metalPartsDropRate-0.1": "+10% metal part drop rate",
+	"charattribute-metalScrapDropRate-0.2": "+20% metal scrap drop rate",
+	"charattribute-oreDropRate-0.15": "+15% ore drop rate"
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "op": "add",
+    "path": "/drops/0/dropModbyStat",
+    "value": "logDropRate",
+    "file": "blocktypes/log.json"
+  },
+  {
+    "op": "add",
+    "path": "/drops/0/dropModbyStat",
+    "value": "logDropRate",
+    "file": "blocktypes/log-carved.json"
+  },
+  {
+    "op": "add",
+    "path": "/drops/0/dropModbyStat",
+    "value": "logDropRate",
+    "file": "blocktypes/log-debarked.json"
+  },
+  {
+    "op": "add",
+    "path": "/drops/0/dropModbyStat",
+    "value": "logDropRate",
+    "file": "blocktypes/log-narrow.json"
+  },
+  {
+    "op": "add",
+    "path": "/drops/0/dropModbyStat",
+    "value": "logDropRate",
+    "file": "blocktypes/log-quad.json"
+  },
+  {
+    "op": "add",
+    "path": "/drops/0/dropModbyStat",
+    "value": "logDropRate",
+    "file": "blocktypes/log-quad-corner.json"
+  },
+  {
+    "op": "add",
+    "path": "/drops/0/dropModbyStat",
+    "value": "logDropRate",
+    "file": "blocktypes/log-section.json"
+  },
+  {
+    "op": "add",
+    "path": "/drops/0/dropModbyStat",
+    "value": "logDropRate",
+    "file": "blocktypes/log-withresin.json"
+  }
+]

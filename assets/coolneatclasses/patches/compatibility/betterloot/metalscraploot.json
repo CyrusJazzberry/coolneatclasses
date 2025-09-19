@@ -1,0 +1,26 @@
+[
+  {
+    "op": "add",
+    "path": "/server/behaviors/9/dropsByType/*-deep/6/dropModbyStat",
+    "value": "metalScrapDropRate",
+    "file": "entities/land/drifter.json",
+	"side": "server",
+	"dependsOn": [{ "modid": "betterloot" }]
+  },
+  {
+    "op": "add",
+    "path": "/server/behaviors/9/dropsByType/*-deep/6/dropModbyStat",
+    "value": "metalScrapDropRate",
+    "file": "entities/land/bowtorn.json",
+	"side": "server",
+	"dependsOn": [{ "modid": "betterloot" }]
+  },
+  {
+    "op": "add",
+    "path": "/server/behaviors/9/dropsByType/*-deep/6/dropModbyStat",
+    "value": "metalScrapDropRate",
+    "file": "entities/land/shiver.json",
+	"side": "server",
+	"dependsOn": [{ "modid": "betterloot" }]
+  }
+]

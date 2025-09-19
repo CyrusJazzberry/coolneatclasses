@@ -1,0 +1,14 @@
+[
+  {
+    "op": "add",
+    "path": "/attributes/dropsByType/1/dropModbyStat",
+    "value": "fruitTreeGraftDropRate",
+    "file": "blocktypes/plant/fruittreebranch.json"
+  },
+  {
+    "op": "add",
+    "path": "/attributes/dropsByType/2/dropModbyStat",
+    "value": "fruitTreeGraftDropRate",
+    "file": "blocktypes/plant/fruittreebranch.json"
+  }
+]

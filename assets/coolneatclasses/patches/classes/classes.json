@@ -1,0 +1,133 @@
+[
+// Clockmaker
+    {
+        "op": "addmerge",
+        "path": "/3/traits",
+		"enabled": true,
+        "value": [ "scrapworker" ],
+        "file": "game:config/characterclasses.json"
+    },
+    {
+        "op": "addmerge",
+        "path": "/3/traits",
+		"enabled": true,
+        "value": [ "encumbered" ],
+        "file": "game:config/characterclasses.json"
+    },
+// Tailor
+    {
+        "op": "addmerge",
+        "path": "/5/traits",
+		"enabled": true,
+        "value": [ "customfit" ],
+        "file": "game:config/characterclasses.json"
+    },
+    {
+        "op": "addmerge",
+        "path": "/5/traits",
+		"enabled": true,
+        "value": [ "firstaid" ],
+        "file": "game:config/characterclasses.json"
+    },
+    {
+        "op": "addmerge",
+        "path": "/5/traits",
+		"enabled": true,
+        "value": [ "quarterstaffProficiency" ],
+        "file": "game:config/characterclasses.json",
+		"dependsOn": [{ "modid": "combatoverhaul" }]
+    },
+// Hunter
+    {
+        "op": "addmerge",
+        "path": "/1/traits",
+		"enabled": true,
+        "value": [ "stealthy" ],
+        "file": "game:config/characterclasses.json"
+    },
+    {
+        "op": "addmerge",
+        "path": "/1/traits",
+		"enabled": true,
+        "value": [ "encumbered" ],
+        "file": "game:config/characterclasses.json"
+    },
+// Blacksmith
+    {
+        "op": "addmerge",
+        "path": "/-",
+		"enabled": true,
+        "value": {
+            "code": "blacksmith",
+            "traits": [ "prospector", "sturdy", "stoker", "conspicuous", "heavyhanded" ],
+            "gear": [
+                { "type": "item", "code": "clothes-upperbody-homespun-shirt" },
+                { "type": "item", "code": "clothes-shoulder-blacksmith-apron" },
+                { "type": "item", "code": "clothes-lowerbody-raw-hide-trousers" },
+                { "type": "item", "code": "clothes-foot-high-leather-boots" },
+	            { "type": "item", "code": "clothes-hand-heavy-leather-gloves" },
+                { "type": "item", "code": "clothes-waist-heavy-tool-belt" }
+            ]
+        },
+        "file": "game:config/characterclasses.json",
+		"dependsOn": [{ "modid": "combatoverhaul", "invert": true }]
+    },
+    {
+        "op": "addmerge",
+        "path": "/-",
+		"enabled": true,
+        "value": {
+            "code": "blacksmith",
+            "traits": [ "prospector", "sturdy", "stoker", "oneHandedSwordsProficiency", "macesProficiency", "clubsProficiency", "conspicuous", "heavyhanded" ],
+            "gear": [
+                { "type": "item", "code": "clothes-upperbody-homespun-shirt" },
+                { "type": "item", "code": "clothes-shoulder-blacksmith-apron" },
+                { "type": "item", "code": "clothes-lowerbody-raw-hide-trousers" },
+                { "type": "item", "code": "clothes-foot-high-leather-boots" },
+	            { "type": "item", "code": "clothes-hand-heavy-leather-gloves" },
+                { "type": "item", "code": "clothes-waist-heavy-tool-belt" }
+            ]
+        },
+        "file": "game:config/characterclasses.json",
+		"dependsOn": [{ "modid": "combatoverhaul" }]
+    },
+// Forester
+    {
+        "op": "addmerge",
+        "path": "/-",
+		"enabled": true,
+        "value": {
+            "code": "forester",
+            "traits": [ "lumberjack", "woodcarver", "naturalist", "unsteady", "technophobic" ],
+            "gear": [
+                { "type": "item", "code": "clothes-upperbodyover-warm-robe" },
+                { "type": "item", "code": "clothes-shoulder-woolen-scarf" },
+                { "type": "item", "code": "clothes-lowerbody-workmans-gown" },
+                { "type": "item", "code": "clothes-foot-commoner-boots" },
+	            { "type": "item", "code": "clothes-hand-commoner-gloves" },
+                { "type": "item", "code": "clothes-head-straw-hat" }
+            ]
+        },
+        "file": "game:config/characterclasses.json",
+		"dependsOn": [{ "modid": "combatoverhaul", "invert": true }]
+    },	
+    {
+        "op": "addmerge",
+        "path": "/-",
+		"enabled": true,
+        "value": {
+            "code": "forester",
+            "traits": [ "lumberjack", "woodcarver", "naturalist", "axesProficiency", "halberdsProficiency", "spearsProficiency", "tremblingAim", "clumsyHands", "technophobic" ],
+            "gear": [
+                { "type": "item", "code": "clothes-upperbodyover-warm-robe" },
+                { "type": "item", "code": "clothes-shoulder-woolen-scarf" },
+                { "type": "item", "code": "clothes-lowerbody-workmans-gown" },
+                { "type": "item", "code": "clothes-foot-commoner-boots" },
+	            { "type": "item", "code": "clothes-hand-commoner-gloves" },
+                { "type": "item", "code": "clothes-head-straw-hat" }
+            ]
+        },
+        "file": "game:config/characterclasses.json",
+		"dependsOn": [{ "modid": "combatoverhaul" }]
+    }	
+]
