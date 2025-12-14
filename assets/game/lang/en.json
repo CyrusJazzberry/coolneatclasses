@@ -1,6 +1,6 @@
 {
 	"characterclass-blacksmith": "Blacksmith",
-	"characterdesc-blacksmith": "<font color=\"#99c9f9\"><i>Flesh rots and metal rusts.</i></font><br><br>Blacksmiths are masters of metallurgy. Years of forgework has strengthened their swing, and they know how to maintain their equipment. Those skilled in the ways of the forge also tend to develop an eye for ore quality.",
+	"characterdesc-blacksmith": "<font color=\"#99c9f9\"><i>Each blow of your hammer breathes life into metal. Work the forge and bring forth tools of creation and ruin.</i></font><br><br>The blacksmith is a master of metallurgy. Years of forgework has strengthened their swing, and they know how to maintain their equipment. Those skilled in the ways of the forge also tend to develop an eye for quality ore.",
 	
 	"trait-prospector": "<font color=\"#84ff84\">• Prospector </font>",
 	"trait-sturdy": "<font color=\"#84ff84\">• Sturdy </font>",
@@ -12,7 +12,7 @@
 	"traitname-conspicuous": "Conspicuous",
 	
 	"characterclass-forester": "Forester",
-	"characterdesc-forester": "<font color=\"#99c9f9\"><i>Even the greatest oak will fall.</i></font><br><br>Foresters are stewards of nature. Skin of hardwood and sap in their veins, living off the land has taught them to make the most out of what nature provides.",
+	"characterdesc-forester": "<font color=\"#99c9f9\"><i>The forest conducts a symphony; a dirge. Someday, even the greatest oak will fall.</i></font><br><br>The forester is adept at resource gathering in the wild. Skin of hardwood and sap in their veins, living off the land has taught them to make the most out of what nature provides.",
 	
 	"trait-lumberjack": "<font color=\"#84ff84\">• Lumberjack </font>",
 	"trait-woodcarver": "<font color=\"#84ff84\">• Woodcarver </font>",
@@ -24,8 +24,8 @@
 	
 	"trait-scrapworker": "<font color=\"#84ff84\">• Salvager </font>",
 
-	"trait-customfit": "<font color=\"#84ff84\">• Custom fit </font>",
-	"trait-firstaid": "<font color=\"#84ff84\">• First aid </font>",
+	"trait-customfit": "<font color=\"#84ff84\">• Bespoke </font>",
+	"trait-firstaid": "<font color=\"#84ff84\">• Stitcher </font>",
 	
 	"trait-stealthy": "<font color=\"#84ff84\">• Stealthy </font>",
 	
