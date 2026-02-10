@@ -3,48 +3,48 @@
     "op": "add",
     "path": "/drops/0/dropModbyStat",
     "value": "logDropRate",
-    "file": "blocktypes/log.json"
+    "file": "game:blocktypes/wood/woodtyped/log.json"
   },
   {
     "op": "add",
     "path": "/drops/0/dropModbyStat",
     "value": "logDropRate",
-    "file": "blocktypes/log-carved.json"
+    "file": "game:blocktypes/wood/woodtyped/log-carved.json"
   },
   {
     "op": "add",
     "path": "/drops/0/dropModbyStat",
     "value": "logDropRate",
-    "file": "blocktypes/log-debarked.json"
+    "file": "game:blocktypes/wood/woodtyped/log-debarked.json"
   },
   {
     "op": "add",
     "path": "/drops/0/dropModbyStat",
     "value": "logDropRate",
-    "file": "blocktypes/log-narrow.json"
+    "file": "game:blocktypes/wood/woodtyped/log-narrow.json"
   },
   {
     "op": "add",
     "path": "/drops/0/dropModbyStat",
     "value": "logDropRate",
-    "file": "blocktypes/log-quad.json"
+    "file": "game:blocktypes/wood/woodtyped/log-quad.json"
   },
   {
     "op": "add",
     "path": "/drops/0/dropModbyStat",
     "value": "logDropRate",
-    "file": "blocktypes/log-quad-corner.json"
+    "file": "game:blocktypes/wood/woodtyped/log-quad-corner.json"
   },
   {
     "op": "add",
     "path": "/drops/0/dropModbyStat",
     "value": "logDropRate",
-    "file": "blocktypes/log-section.json"
+    "file": "game:blocktypes/wood/woodtyped/log-section.json"
   },
   {
     "op": "add",
     "path": "/drops/0/dropModbyStat",
     "value": "logDropRate",
-    "file": "blocktypes/log-withresin.json"
+    "file": "game:blocktypes/wood/woodtyped/log-withresin.json"
   }
 ]

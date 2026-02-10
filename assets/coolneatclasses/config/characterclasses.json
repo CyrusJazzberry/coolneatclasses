@@ -1,0 +1,28 @@
+[
+	{
+		"enabled": true,
+		"code": "blacksmith",
+		"traits": [ "prospector", "sturdy", "stoker", "conspicuous", "heavyhanded" ],
+		"gear": [
+            { "type": "item", "code": "game:clothes-upperbody-homespun-shirt" },
+            { "type": "item", "code": "game:clothes-shoulder-blacksmith-apron" },
+            { "type": "item", "code": "game:clothes-lowerbody-raw-hide-trousers" },
+            { "type": "item", "code": "game:clothes-foot-high-leather-boots" },
+	        { "type": "item", "code": "game:clothes-hand-heavy-leather-gloves" },
+            { "type": "item", "code": "game:clothes-waist-heavy-tool-belt" }
+		]
+	},
+	{
+		"enabled": true,
+		"code": "forester",
+		"traits": [ "lumberjack", "woodcarver", "naturalist", "unsteady", "technophobic" ],
+		"gear": [
+			{ "type": "item", "code": "game:clothes-upperbodyover-warm-robe" },
+			{ "type": "item", "code": "game:clothes-shoulder-woolen-scarf" },
+			{ "type": "item", "code": "game:clothes-lowerbody-workmans-gown" },
+			{ "type": "item", "code": "game:clothes-foot-commoner-boots" },
+			{ "type": "item", "code": "game:clothes-hand-commoner-gloves" },
+			{ "type": "item", "code": "game:clothes-head-straw-hat" }
+		]
+	}
+]

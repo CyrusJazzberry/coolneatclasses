@@ -1,0 +1,47 @@
+[
+// Clockmaker
+    {
+        "op": "addmerge",
+        "path": "/3/traits",
+		"enabled": true,
+        "value": [ "scrapworker" ],
+        "file": "game:config/characterclasses.json"
+    },
+    {
+        "op": "addmerge",
+        "path": "/3/traits",
+		"enabled": true,
+        "value": [ "encumbered" ],
+        "file": "game:config/characterclasses.json"
+    },
+// Tailor
+    {
+        "op": "addmerge",
+        "path": "/5/traits",
+		"enabled": true,
+        "value": [ "customfit" ],
+        "file": "game:config/characterclasses.json"
+    },
+    {
+        "op": "addmerge",
+        "path": "/5/traits",
+		"enabled": true,
+        "value": [ "firstaid" ],
+        "file": "game:config/characterclasses.json"
+    },
+// Hunter
+    {
+        "op": "addmerge",
+        "path": "/1/traits",
+		"enabled": true,
+        "value": [ "stealthy" ],
+        "file": "game:config/characterclasses.json"
+    },
+    {
+        "op": "addmerge",
+        "path": "/1/traits",
+		"enabled": true,
+        "value": [ "encumbered" ],
+        "file": "game:config/characterclasses.json"
+    }
+]

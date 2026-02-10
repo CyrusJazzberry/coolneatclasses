@@ -1,7 +1,10 @@
 {
+	//character classes
 	"characterclass-blacksmith": "Blacksmith",
-	"characterdesc-blacksmith": "<font color=\"#99c9f9\"><i>Each blow of your hammer breathes life into metal. Work the forge and bring forth tools of creation and ruin.</i></font><br><br>The blacksmith is a master of metallurgy. Years of forgework has strengthened their swing, and they know how to maintain their equipment. Those skilled in the ways of the forge also tend to develop an eye for quality ore.",
-	
+	"characterdesc-blacksmith": "<font color=\"#99c9f9\"><i>Each blow of your hammer breathes life into metal. Work the forge and bring forth tools of creation and ruin.</i></font><br><br>Blacksmiths are masters of metallurgy. Years of forgework has strengthened their swing, and they know how to maintain their equipment. Those skilled in the ways of the forge also tend to develop an eye for quality ore.",
+	"characterclass-forester": "Forester",
+	"characterdesc-forester": "<font color=\"#99c9f9\"><i>The forest's symphony is a dirge. Someday, even the greatest oak will fall.</i></font><br><br>Foresters are adept foragers. Skin of hardwood and sap in their veins, living off the land has taught them to make the most out of what nature provides.",
+	//trait names
 	"trait-prospector": "<font color=\"#84ff84\">• Prospector </font>",
 	"trait-sturdy": "<font color=\"#84ff84\">• Sturdy </font>",
 	"trait-stoker": "<font color=\"#84ff84\">• Stoker </font>",
@@ -10,10 +13,7 @@
 	"traitname-sturdy": "Sturdy",
 	"traitname-stoker": "Stoker",
 	"traitname-conspicuous": "Conspicuous",
-	
-	"characterclass-forester": "Forester",
-	"characterdesc-forester": "<font color=\"#99c9f9\"><i>The forest conducts a symphony; a dirge. Someday, even the greatest oak will fall.</i></font><br><br>The forester is adept at resource gathering in the wild. Skin of hardwood and sap in their veins, living off the land has taught them to make the most out of what nature provides.",
-	
+	//trait descs
 	"trait-lumberjack": "<font color=\"#84ff84\">• Lumberjack </font>",
 	"trait-woodcarver": "<font color=\"#84ff84\">• Woodcarver </font>",
 	"trait-naturalist": "<font color=\"#84ff84\">• Naturalist </font>",
@@ -21,16 +21,12 @@
 	"trait-technophobic": "<font color=\"#ff8484\">• Technophobic </font>",
 	"traitname-woodcarver": "Woodcarver",
 	"traitdesc-woodcarver": "Exclusive recipes to craft <a href=\"handbooksearch://stick\">sticks</a> from firewood",
-	
 	"trait-scrapworker": "<font color=\"#84ff84\">• Salvager </font>",
-
 	"trait-customfit": "<font color=\"#84ff84\">• Bespoke </font>",
 	"trait-firstaid": "<font color=\"#84ff84\">• Stitcher </font>",
-	
 	"trait-stealthy": "<font color=\"#84ff84\">• Stealthy </font>",
-	
 	"trait-encumbered": "<font color=\"#ff8484\">• Encumbered </font>",
-
+	//attributes
 	"charattribute-animalHarvestingTime--0.25": "+25% animal harvesting speed",
 	"charattribute-animalLootDropRate-0.25": "+25% animal loot",
 	"charattribute-animalSeekingRange--0.2": "-20% animal seeking range",

@@ -3,54 +3,54 @@
     "op": "add",
     "path": "/drops/1/dropModbyStat",
     "value": "metalPartsDropRate",
-    "file": "blocktypes/metal/partpile.json"
+    "file": "game:blocktypes/metal/partpile.json"
   },
   {
     "op": "add",
     "path": "/drops/1/dropModbyStat",
     "value": "metalPartsDropRate",
-    "file": "blocktypes/metal/partpile-wall.json"
+    "file": "game:blocktypes/metal/partpile-wall.json"
   },
   {
     "op": "add",
     "path": "/dropsByType/*-tiny/1/dropModbyStat",
     "value": "metalPartsDropRate",
-    "file": "blocktypes/locustnest/metalspikes.json"
+    "file": "game:blocktypes/locustnest/metalspikes.json"
   },
   {
     "op": "add",
     "path": "/dropsByType/*-small/1/dropModbyStat",
     "value": "metalPartsDropRate",
-    "file": "blocktypes/locustnest/metalspikes.json"
+    "file": "game:blocktypes/locustnest/metalspikes.json"
   },
   {
     "op": "add",
     "path": "/dropsByType/*-medium/1/dropModbyStat",
     "value": "metalPartsDropRate",
-    "file": "blocktypes/locustnest/metalspikes.json"
+    "file": "game:blocktypes/locustnest/metalspikes.json"
   },
   {
     "op": "add",
     "path": "/dropsByType/*-large/1/dropModbyStat",
     "value": "metalPartsDropRate",
-    "file": "blocktypes/locustnest/metalspikes.json"
+    "file": "game:blocktypes/locustnest/metalspikes.json"
   },
   {
     "op": "add",
-    "path": "/attributes/panningDrops/@(sand|gravel)-.*)/15/dropModbyStat",
+    "path": "/attributes/panningDrops/@(sand|gravel|sandwavy)-.*/15/dropModbyStat",
     "value": "metalPartsDropRate",
-    "file": "blocktypes/wood/pan.json"
+    "file": "game:blocktypes/wood/pan.json"
   },
   {
     "op": "add",
     "path": "/drops/1/dropModbyStat",
     "value": "metalPartsDropRate",
-    "file": "entities/land/bell.json"
+    "file": "game:entities/lore/bell.json"
   },
   {
     "op": "add",
     "path": "/drops/3/dropModbyStat",
     "value": "metalPartsDropRate",
-    "file": "entities/land/eidolon_immobilized.json"
+    "file": "game:entities/lore/eidolon_immobilized.json"
   }
 ]

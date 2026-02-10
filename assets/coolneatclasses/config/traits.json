@@ -1,0 +1,105 @@
+[
+	{
+		"code": "encumbered",
+		"type": "negative",
+		"attributes": {
+			"armorWalkSpeedAffectedness": 0.25
+		}
+	},
+	{
+		"code": "scrapworker",
+		"type": "positive",
+		"attributes": {
+			"metalScrapDropRate": 0.2,
+			"metalPartsDropRate": 0.1
+		}
+	},
+	{
+		"code": "stealthy",
+		"type": "positive",
+		"attributes": {
+			"animalSeekingRange": -0.2
+		}
+	},
+	{
+		"code": "customfit",
+		"type": "positive",
+		"attributes": {
+			"armorWalkSpeedAffectedness": -0.25
+		}
+	},
+	{
+		"code": "firstaid",
+		"type": "positive",
+		"attributes": {
+			"healingeffectivness": 0.25
+		}
+	},
+	{
+		"code": "prospector",
+		"type": "positive",
+		"attributes": {
+			"oreDropRate": 0.15,
+			"miningSpeedMul": 0.1
+		}
+	},
+	{
+		"code": "stoker",
+		"type": "positive",
+		"attributes": {
+			"charcoalPileDropRate": 0.2
+		}
+	},
+	{
+		"code": "sturdy",
+		"type": "positive",
+		"attributes": {
+			"meleeWeaponsDamage": 0.15,
+			"armorDurabilityLoss": -0.25
+		}
+	},
+	{
+		"code": "conspicuous",
+		"type": "negative",
+		"attributes": {
+			"animalSeekingRange": 0.25
+		}
+	},
+	{
+		"code": "lumberjack",
+		"type": "positive",
+		"attributes": {
+			"logDropRate": 0.25,
+			"maxhealthExtraPoints": 2
+		}
+	},
+	{
+		"code": "woodcarver",
+		"type": "positive",
+		"attributes": {
+		}
+	},
+	{
+		"code": "naturalist",
+		"type": "positive",
+		"attributes": {
+			"forageDropRate": 0.1,
+			"wildCropDropRate": 0.2,
+			"fruitTreeGraftDropRate": 0.5
+		}
+	},
+	{
+		"code": "unsteady",
+		"type": "negative",
+		"attributes": {
+			"rangedWeaponsDamage": -0.15
+		}
+	},
+	{
+		"code": "technophobic",
+		"type": "negative",
+		"attributes": {
+			"mechanicalsDamage": -0.15
+		}
+	}
+]

@@ -1,14 +1,14 @@
 [
   {
-    "op": "add",
-    "path": "/attributes/dropsByType/1/dropModbyStat",
+    "op": "addmerge",
+    "path": "/dropsByType/*-branch/0/dropModbyStat",
     "value": "fruitTreeGraftDropRate",
-    "file": "blocktypes/plant/fruittreebranch.json"
+    "file": "game:blocktypes/plant/fruittreebranch.json"
   },
   {
-    "op": "add",
-    "path": "/attributes/dropsByType/2/dropModbyStat",
+    "op": "addmerge",
+    "path": "/dropsByType/*-cutting/0/dropModbyStat",
     "value": "fruitTreeGraftDropRate",
-    "file": "blocktypes/plant/fruittreebranch.json"
+    "file": "game:blocktypes/plant/fruittreebranch.json"
   }
 ]
