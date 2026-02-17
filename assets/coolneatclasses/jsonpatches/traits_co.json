@@ -1,0 +1,37 @@
+[
+    //blacksmith
+    {
+        "enabled": true,
+        "file": "coolneatclasses:config/characterclasses.json",
+        "op": "addeach",
+        "path": "/code=blacksmith/traits/-",
+        "value": [ "oneHandedSwordsProficiency", "macesProficiency", "clubsProficiency" ],
+        "dependsOn": [{ "modid": "combatoverhaul" }]
+    },
+    //forester
+    {
+        "enabled": true, 
+        "file": "coolneatclasses:config/characterclasses.json", 
+        "op": "replace", 
+        "path": "/code=forester/traits", 
+        "value": [ "lumberjack", "woodcarver", "naturalist", "technophobic" ],
+        "dependsOn": [{ "modid": "combatoverhaul" }]
+    },
+    {
+        "enabled": true,
+        "file": "coolneatclasses:config/characterclasses.json",
+        "op": "addeach",
+        "path": "/code=forester/traits/-",
+        "value": [ "axesProficiency", "halberdsProficiency", "spearsProficiency", "clumsyHands" ],
+        "dependsOn": [{ "modid": "combatoverhaul" }]
+    },
+    //tailor
+    {
+        "enabled": true, 
+        "file": "game:config/characterclasses.json", 
+        "op": "addeach", 
+        "path": "/code=tailor/traits/-", 
+        "value": [ "quarterstaffProficiency" ],
+        "dependsOn": [{ "modid": "combatoverhaul" }]
+    }
+]

@@ -129,7 +129,5 @@
     "path": "/dropsByType/*-9/2/dropModbyStat",
     "value": "domesticCropDropRate",
     "file": "blocktypes/plant/crop/flax.json"
-  },
-  
-  
+  }
 ]

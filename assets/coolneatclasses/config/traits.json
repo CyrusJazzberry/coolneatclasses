@@ -70,7 +70,8 @@
 		"type": "positive",
 		"attributes": {
 			"logDropRate": 0.25,
-			"maxhealthExtraPoints": 2
+			"maxhealthExtraPoints": 2,
+			"miningSpeedMul": 0.1
 		}
 	},
 	{
