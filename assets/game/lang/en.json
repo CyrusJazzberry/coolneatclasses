@@ -8,6 +8,7 @@
 	"trait-prospector": "<font color=\"#84ff84\">• Prospector </font>",
 	"trait-sturdy": "<font color=\"#84ff84\">• Sturdy </font>",
 	"trait-stoker": "<font color=\"#84ff84\">• Stoker </font>",
+	"trait-beefyarms": "<font color=\"#84ff84\">• Beefy arms </font>",
 	"trait-conspicuous": "<font color=\"#ff8484\">• Conspicuous </font>",
 	"traitname-prospector": "Prospector",
 	"traitname-sturdy": "Sturdy",
@@ -17,6 +18,7 @@
 	"trait-lumberjack": "<font color=\"#84ff84\">• Lumberjack </font>",
 	"trait-woodcarver": "<font color=\"#84ff84\">• Woodcarver </font>",
 	"trait-naturalist": "<font color=\"#84ff84\">• Naturalist </font>",
+	"trait-trunkchest": "<font color=\"#84ff84\">• Trunk chest </font>",
 	"trait-unsteady": "<font color=\"#ff8484\">• Unsteady </font>",
 	"trait-technophobic": "<font color=\"#ff8484\">• Technophobic </font>",
 	"traitname-woodcarver": "Woodcarver",
@@ -39,9 +41,12 @@
 	"charattribute-healingeffectivness-0.25": "+25% healing effectiveness",
 	"charattribute-logDropRate-0.25": "+25% log drop rate",
 	"charattribute-maxhealthExtraPoints-2": "+2 health points",
-	"charattribute-mechanicalsDamage--0.15": "-15% damage against mechanicals",
+	"charattribute-mechanicalsDamage--0.25": "-25% damage against mechanicals",
 	"charattribute-meleeWeaponsDamage-0.15": "+15% melee damage",
 	"charattribute-metalPartsDropRate-0.1": "+10% metal part drop rate",
 	"charattribute-metalScrapDropRate-0.2": "+20% metal scrap drop rate",
-	"charattribute-oreDropRate-0.15": "+15% ore drop rate"
+	"charattribute-oreDropRate-0.15": "+15% ore drop rate",
+	"charattribute-playerTorsoDamageFactor--0.25": "-25% damage received to torso",
+	"charattribute-playerArmsDamageFactor--0.25": "-25% damage received to arms",
+	"charattribute-playerHandsDamageFactor--0.25": "-25% damage received to hands"
 }

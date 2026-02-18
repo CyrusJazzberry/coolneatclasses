@@ -5,7 +5,7 @@
         "file": "coolneatclasses:config/characterclasses.json",
         "op": "addeach",
         "path": "/code=blacksmith/traits/-",
-        "value": [ "oneHandedSwordsProficiency", "macesProficiency", "clubsProficiency" ],
+        "value": [ "oneHandedSwordsProficiency", "macesProficiency", "clubsProficiency", "beefyarms" ],
         "dependsOn": [{ "modid": "combatoverhaul" }]
     },
     //forester
@@ -22,16 +22,24 @@
         "file": "coolneatclasses:config/characterclasses.json",
         "op": "addeach",
         "path": "/code=forester/traits/-",
-        "value": [ "axesProficiency", "halberdsProficiency", "spearsProficiency", "clumsyHands" ],
+        "value": [ "axesProficiency", "halberdsProficiency", "spearsProficiency", "clumsyHands", "trunkchest" ],
         "dependsOn": [{ "modid": "combatoverhaul" }]
     },
-    //tailor
+    //enable traits if CO enabled
     {
         "enabled": true, 
-        "file": "game:config/characterclasses.json", 
-        "op": "addeach", 
-        "path": "/code=tailor/traits/-", 
-        "value": [ "quarterstaffProficiency" ],
+        "file": "coolneatclasses:config/traits.json", 
+        "op": "replace", 
+        "path": "/14/enabled", 
+        "value": true,
+        "dependsOn": [{ "modid": "combatoverhaul" }]
+    },
+    {
+        "enabled": true, 
+        "file": "coolneatclasses:config/traits.json", 
+        "op": "replace", 
+        "path": "/15/enabled", 
+        "value": true,
         "dependsOn": [{ "modid": "combatoverhaul" }]
     }
 ]

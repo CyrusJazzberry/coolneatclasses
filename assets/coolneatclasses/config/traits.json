@@ -100,7 +100,24 @@
 		"code": "technophobic",
 		"type": "negative",
 		"attributes": {
-			"mechanicalsDamage": -0.15
+			"mechanicalsDamage": -0.25
+		}
+	},
+	{
+		"enabled": false,
+		"code": "trunkchest",
+		"type": "positive",
+		"attributes": {
+			"playerTorsoDamageFactor": -0.25
+		}
+	},
+	{
+		"enabled": false,
+		"code": "beefyarms",
+		"type": "positive",
+		"attributes": {
+			"playerArmsDamageFactor": -0.25,
+			"playerHandsDamageFactor": -0.25
 		}
 	}
 ]
