@@ -1,24 +1,23 @@
 {
-	//character classes
 	"characterclass-blacksmith": "Blacksmith",
 	"characterdesc-blacksmith": "<font color=\"#99c9f9\"><i>Each blow of your hammer breathes life into metal. Work the forge and bring forth tools of creation and ruin.</i></font><br><br>Blacksmiths are masters of metallurgy. Years of forgework has strengthened their swing, and they know how to maintain their equipment. Those skilled in the ways of the forge also tend to develop an eye for quality ore.",
 	"characterclass-forester": "Forester",
 	"characterdesc-forester": "<font color=\"#99c9f9\"><i>The forest's symphony is a dirge. Someday, even the greatest oak will fall.</i></font><br><br>Foresters are adept foragers. Skin of hardwood and sap in their veins, living off the land has taught them to make the most out of what nature provides.",
-	//trait names
+
 	"trait-prospector": "<font color=\"#84ff84\">• Prospector </font>",
 	"trait-sturdy": "<font color=\"#84ff84\">• Sturdy </font>",
 	"trait-stoker": "<font color=\"#84ff84\">• Stoker </font>",
-	"trait-beefyarms": "<font color=\"#84ff84\">• Beefy arms </font>",
+	"trait-beefyarms": "<font color=\"#84ff84\">• Burly arms </font>",
 	"trait-conspicuous": "<font color=\"#ff8484\">• Conspicuous </font>",
 	"traitname-prospector": "Prospector",
 	"traitname-sturdy": "Sturdy",
 	"traitname-stoker": "Stoker",
 	"traitname-conspicuous": "Conspicuous",
-	//trait descs
+
 	"trait-lumberjack": "<font color=\"#84ff84\">• Lumberjack </font>",
 	"trait-woodcarver": "<font color=\"#84ff84\">• Woodcarver </font>",
 	"trait-naturalist": "<font color=\"#84ff84\">• Naturalist </font>",
-	"trait-trunkchest": "<font color=\"#84ff84\">• Trunk chest </font>",
+	"trait-trunkchest": "<font color=\"#84ff84\">• Broad chest </font>",
 	"trait-unsteady": "<font color=\"#ff8484\">• Unsteady </font>",
 	"trait-technophobic": "<font color=\"#ff8484\">• Technophobic </font>",
 	"traitname-woodcarver": "Woodcarver",
@@ -28,7 +27,7 @@
 	"trait-firstaid": "<font color=\"#84ff84\">• Stitcher </font>",
 	"trait-stealthy": "<font color=\"#84ff84\">• Stealthy </font>",
 	"trait-encumbered": "<font color=\"#ff8484\">• Encumbered </font>",
-	//attributes
+
 	"charattribute-animalHarvestingTime--0.25": "+25% animal harvesting speed",
 	"charattribute-animalLootDropRate-0.25": "+25% animal loot",
 	"charattribute-animalSeekingRange--0.2": "-20% animal seeking range",
@@ -48,5 +47,6 @@
 	"charattribute-oreDropRate-0.15": "+15% ore drop rate",
 	"charattribute-playerTorsoDamageFactor--0.25": "-25% damage received to torso",
 	"charattribute-playerArmsDamageFactor--0.25": "-25% damage received to arms",
-	"charattribute-playerHandsDamageFactor--0.25": "-25% damage received to hands"
+	"charattribute-playerHandsDamageFactor--0.25": "-25% damage received to hands",
+	"charattribute-meleeDamageTierBonusBluntAttack-1": "+1 damage tier for melee attacks dealing blunt damage"
 }

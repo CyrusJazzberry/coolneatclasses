@@ -29,6 +29,15 @@
         "value": [ "firstaid" ],
         "file": "game:config/characterclasses.json"
     },
+    {
+        "op": "replace",
+        "path": "/21/attributes",
+		"enabled": true,
+        "value": {
+		    "animalHarvestingTime": 0.25
+        },
+        "file": "game:config/traits.json"
+    },
 // Hunter
     {
         "op": "addmerge",
