@@ -51,6 +51,6 @@
     "op": "add",
     "path": "/drops/3/dropModbyStat",
     "value": "metalPartsDropRate",
-    "file": "game:entities/lore/boss/eidolon_immobilized.json"
+    "file": "game:entities/lore/boss/eidolon-immobilized.json"
   }
 ]

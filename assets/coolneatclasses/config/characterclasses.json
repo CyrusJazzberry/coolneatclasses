@@ -17,12 +17,12 @@
 		"code": "forester",
 		"traits": [ "lumberjack", "woodcarver", "naturalist", "unsteady", "technophobic" ],
 		"gear": [
-			{ "type": "item", "code": "game:clothes-upperbodyover-warm-robe" },
-			{ "type": "item", "code": "game:clothes-shoulder-woolen-scarf" },
+			{ "type": "item", "code": "game:clothes-shoulder-jord-robe" },
 			{ "type": "item", "code": "game:clothes-lowerbody-workmans-gown" },
-			{ "type": "item", "code": "game:clothes-foot-commoner-boots" },
+			{ "type": "item", "code": "game:clothes-foot-high-leather-boots" },
 			{ "type": "item", "code": "game:clothes-hand-commoner-gloves" },
-			{ "type": "item", "code": "game:clothes-head-straw-hat" }
+			{ "type": "item", "code": "game:clothes-head-straw-hat" },
+			{ "type": "item", "code": "game:clothes-waist-sturdy-belt" }
 		]
 	}
 ]

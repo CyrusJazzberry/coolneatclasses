@@ -9,10 +9,6 @@
 	"trait-stoker": "<font color=\"#84ff84\">• Stoker </font>",
 	"trait-beefyarms": "<font color=\"#84ff84\">• Burly arms </font>",
 	"trait-conspicuous": "<font color=\"#ff8484\">• Conspicuous </font>",
-	"traitname-prospector": "Prospector",
-	"traitname-sturdy": "Sturdy",
-	"traitname-stoker": "Stoker",
-	"traitname-conspicuous": "Conspicuous",
 
 	"trait-lumberjack": "<font color=\"#84ff84\">• Lumberjack </font>",
 	"trait-woodcarver": "<font color=\"#84ff84\">• Woodcarver </font>",
@@ -20,16 +16,26 @@
 	"trait-trunkchest": "<font color=\"#84ff84\">• Broad chest </font>",
 	"trait-unsteady": "<font color=\"#ff8484\">• Unsteady </font>",
 	"trait-technophobic": "<font color=\"#ff8484\">• Technophobic </font>",
-	"traitname-woodcarver": "Woodcarver",
-	"traitdesc-woodcarver": "Exclusive recipes to craft <a href=\"handbooksearch://stick\">sticks</a> from firewood",
+
 	"trait-scrapworker": "<font color=\"#84ff84\">• Salvager </font>",
 	"trait-customfit": "<font color=\"#84ff84\">• Bespoke </font>",
 	"trait-firstaid": "<font color=\"#84ff84\">• Stitcher </font>",
 	"trait-stealthy": "<font color=\"#84ff84\">• Stealthy </font>",
 	"trait-encumbered": "<font color=\"#ff8484\">• Encumbered </font>",
 
-	"charattribute-animalHarvestingTime--0.25": "+25% animal harvesting speed",
-	"charattribute-animalLootDropRate-0.25": "+25% animal loot",
+	"traitname-prospector": "Prospector",
+	"traitname-sturdy": "Sturdy",
+	"traitname-stoker": "Stoker",
+	"traitname-conspicuous": "Conspicuous",
+	"traitname-lumberjack": "Lumberjack",
+	"traitname-woodcarver": "Woodcarver",
+	"traitname-naturalist": "Naturalist",
+	"traitname-trunkchest": "Broad chest",
+	"traitname-unsteady": "Unsteady",
+	"traitname-technophobic": "Technophobic",
+
+	"traitdesc-woodcarver": "Exclusive recipes to craft <a href=\"handbooksearch://stick\">sticks</a> from firewood",
+
 	"charattribute-animalSeekingRange--0.2": "-20% animal seeking range",
 	"charattribute-animalSeekingRange-0.25": "+25% animal seeking range",
 	"charattribute-armorDurabilityLoss--0.25": "+25% armor durability",
@@ -38,7 +44,6 @@
 	"charattribute-charcoalPileDropRate-0.2": "+20% charcoal pit drop rate",
 	"charattribute-fruitTreeGraftDropRate-0.5": "+50% fruit tree graft drop rate",
 	"charattribute-healingeffectivness-0.25": "+25% healing effectiveness",
-	"charattribute-logDropRate-0.25": "+25% log drop rate",
 	"charattribute-maxhealthExtraPoints-2": "+2 health points",
 	"charattribute-mechanicalsDamage--0.25": "-25% damage against mechanicals",
 	"charattribute-meleeWeaponsDamage-0.15": "+15% melee damage",
@@ -48,5 +53,8 @@
 	"charattribute-playerTorsoDamageFactor--0.25": "-25% damage received to torso",
 	"charattribute-playerArmsDamageFactor--0.25": "-25% damage received to arms",
 	"charattribute-playerHandsDamageFactor--0.25": "-25% damage received to hands",
-	"charattribute-meleeDamageTierBonusBluntAttack-1": "+1 damage tier for melee attacks dealing blunt damage"
+	"charattribute-meleeDamageTierBonusBluntAttack-1": "+1 damage tier for melee attacks dealing blunt damage",
+
+	"dialogue-tobias-blacksmith": "(Blacksmith) You were a blacksmith. While we recycled what we could, we needed new parts for the machinery, and your lot delivered. Thinking back, you were one of the pillars holding us together; a group can only do so much without serviceable weaponry, tools, and parts.",
+	"dialogue-tobias-forester": "(Forester) You were a forester. Wood is invaluable, even if abundant. Fuel for the fires, material for carpentry, handles for tools. Even while the Rot ravaged nature, you fought tooth and nail to conserve what you could and haul back timber to keep us warm and fed."
 }
